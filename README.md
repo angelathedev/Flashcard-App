@@ -4,7 +4,7 @@
 The Flashcard app is designed to help students at a local school study online.  Teachers can use the application to create decks of flash cards for the subjects that they teach, and students will study the decks.
 
 ## Homepage
-
+(Screen Shot 2021-05-13 at 3.47.22 PM.png)
 
 ## Technology
 * React, including Router
