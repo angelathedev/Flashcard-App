@@ -1,6 +1,6 @@
 # Flashcard-App
 
-# General Information
+## General Information
 The Flashcard app is designed to help students at a local school study online.  Teachers can use the application to create decks of flash cards for the subjects that they teach, and students will study the decks.
 
 ## Homepage
